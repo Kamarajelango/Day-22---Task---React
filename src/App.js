@@ -20,10 +20,10 @@ function App() {
       mobile:"743210"
     }
   ]
-  return( <>
+  return <>
     <Details data={data}/>
   </>
-  );
+ 
 }
 
 export default App;
